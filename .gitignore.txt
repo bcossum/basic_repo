@@ -1,7 +1,8 @@
+# ignore packages dir
 packages/
-
+# ignore this file
 secret.js
-
+#ignore files end with txt
 *.txt
-
+#ignore files starting with log
 log*
