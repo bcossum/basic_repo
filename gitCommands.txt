@@ -1,0 +1,5 @@
+mkdir Basic_Repo
+cd Basic_Repo
+git init
+git remote add origin https://github.com/bcossum/basic_repo.git
+touch gitCommands.txt
