@@ -3,3 +3,6 @@ cd Basic_Repo
 git init
 git remote add origin https://github.com/bcossum/basic_repo.git
 touch gitCommands.txt
+git add gitCommands.txt
+git commit -m "added txt file"
+git push origin master
